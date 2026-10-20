@@ -19,6 +19,8 @@ The strongest duplicate signals are duplicate Confluence pages around agent arti
 
 ## Builder Reuse Guidance
 
+> **Currentness note — 2026-10-20:** This historical dry-run report is retained unchanged below. Its Jira Ticket Polisher reuse recommendation is superseded: for current Jira ticket polishing or issue-quality cleanup, check **Jira Work Item Assistant — Ticket Review / Polish**, as recorded in [AGENTS.md](../../AGENTS.md#current-pilot-posture-rovo-first) and the [Agent Inventory](../confluence-pages/agent-inventory.md#builder-reuse-checks). Jira Ticket Polisher is archived / superseded reference only. This routing correction does not change approval, readiness, or write permissions.
+
 | New Request Looks Like | Reuse Check |
 |---|---|
 | Agent design, intake, or governance scaffolding | Check Rovo Design Agent and Agent Doc Steward before creating a new agent. |
